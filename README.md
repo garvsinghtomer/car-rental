@@ -1,2 +1,2 @@
-# car-rental
+# Trip guide
 CAR RENTAL MANAGEMENT SYTEM SOFTWARE. by java
